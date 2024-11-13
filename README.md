@@ -5,8 +5,8 @@
 <ul>
     <li>
         <a href="#" target="_blank">
-            <strong>React Foundations: </strong>
-        </a> <i>See updated link in Week Two</i>
+            <strong>React Foundations:</strong>
+        </a> <i> See updated link in Week Two</i>
     </li>
     <li>
         <a href="https://github.com/kjirstenhernandez/react-todo-list" target="_blank">
@@ -21,5 +21,10 @@
         <a href="https://github.com/kjirstenhernandez/react-foundations" target="_blank">
             <strong>React Foundations: Part Two </strong>
         </a>
+    </li>
+    <li>
+        <a href="https://github.com/kjirstenhernandez/nextjs-dashboard" target="_blank">
+            <strong>Next.JS - Dashboard:</strong>
+        </a> <i> (Chapters 1-5)</i>
     </li>
 </ul>
