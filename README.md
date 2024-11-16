@@ -27,4 +27,9 @@
             <strong>Next.JS - Dashboard:</strong>
         </a> <i> (Chapters 1-5)</i>
     </li>
+    <li>
+        <a href="https://github.com/kjirstenhernandez/mvc-movie-tutorial" target="_blank">
+            <strong>MVC Movie Tutorial</strong>
+        </a>
+    </li>
 </ul>
